@@ -1,0 +1,2 @@
+# Pair-game
+JavaScript exercise 
